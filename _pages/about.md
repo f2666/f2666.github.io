@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is a page that shows my Minecraft Server and some informations about me.
+This is a page that shows my Game Server that use for play with my friend and some informations about me.
