@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Minectaft Server"
+title: "instruction"
 author_profile: true
 redirect_from: 
   - /about/
